@@ -1,0 +1,12 @@
+if __name__ == "__main__":
+    int_value : int =int(input())
+    float_valur: float = float(input())
+    raw_valur: str = input().strip().lower()
+    bool_value: bool = (raw_valur == 'true')
+    int_val = int(input())
+    float_val = float(input())
+    print(f"string to int: {int_value}")
+    print(f"string to float: {float_val}")
+    print(f"string to the bool: {bool_value}")
+    print(f"int to string: {str(int_val)}")
+    print(f"int to float: {float(int_val)}")
