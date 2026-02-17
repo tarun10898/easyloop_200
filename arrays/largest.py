@@ -5,7 +5,7 @@
 #     arr: list[int]
     
 #     def __init__(self,arr:list[int]) -> None:
-#         self.arr: list[int] = arr
+#         self.arr = arr
 
 #     def largest(self) -> int:
 
@@ -31,7 +31,7 @@
 #     arr:list[int]
 
 #     def __init__(self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
     
 #     def largest(self) ->int:
 #         if not self.arr:

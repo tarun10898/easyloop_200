@@ -5,7 +5,7 @@
 #     arr:list[int]
 
 #     def __init__(self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
 
 #     def isAssinding(self) -> bool:
 #         for i in range(len(self.arr)-1):
@@ -47,7 +47,7 @@
 #     arr:list[int]
 
 #     def __init__(self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
 
 #     def isAssinding(self) -> bool:
 #         for i in range(len(self.arr)-1):
