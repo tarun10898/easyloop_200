@@ -5,7 +5,7 @@
 #     arr:list[int]
     
 #     def __init__(self,arr:list[int]) -> None:
-#         self.arr: list[int] = arr
+#         self.arr = arr
 
 #     def removeDuplicates(self) -> list[int]:
 #         unique_values: list[int] = []
@@ -35,7 +35,7 @@
 #     arr:list[int]
 
 #     def __init__(self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
     
 #     def removeDuplicates(self) -> set[int]:
 #         unique_values:set[int] = set()
@@ -64,7 +64,7 @@
 #     arr:list[int]
 
 #     def __init__ (self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
 #     def removeDuplicates(self) -> int:
 #         unique_index:int = 0
 #         for i in range(1,len(self.arr)):

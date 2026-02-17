@@ -5,7 +5,7 @@
 #     arr:list[int]
 
 #     def __init__ (self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
 
 #     def largestAndSmallest(self) -> tuple[int,int,int,int]:
 
@@ -39,7 +39,7 @@
 #     arr:list[int]
 
 #     def __init__ (self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
 
 #     def largestAndSmallest(self) -> tuple[float,float,float,float]:
 

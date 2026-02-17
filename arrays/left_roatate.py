@@ -5,7 +5,7 @@
 #     arr: list[int]
 
 #     def __init__ (self,arr:list[int]) -> None:
-#         self.arr:list[int] = arr
+#         self.arr = arr
 
 #     def leftRoate(self) -> list[int]:
 #         first_element:int = self.arr[0]
